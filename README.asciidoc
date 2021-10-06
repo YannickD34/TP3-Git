@@ -1,3 +1,5 @@
+FICHIER MODIFIE
+
 A simple Java EE 7 Sample
 =========================
 
